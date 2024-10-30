@@ -1,0 +1,62 @@
+body {
+    background-color: #b9b4d3;
+    font-family: 'Calibri', sans-serif;
+    color: #333;
+    margin: 1;
+    padding: 0;
+}
+
+/*headers*/
+h1, h2 {
+    text-align: center;
+    color: black;
+    
+}
+
+h1 {
+    font-size: 14;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 14;
+    margin-top: 20px;
+}
+
+
+/*parrafos*/
+p {
+    text-align: left;
+    color: #333;
+    line-height: 1;
+    font-size: 12;
+}
+
+
+/*imagen*/
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+
+/*contacto*/
+.contact-info {
+    text-align: center;
+    font-size: 12;
+}
+
+.contact-info p {
+    text-align: center;
+}
+
+.contact-info a {
+    color: #4a47a3;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
